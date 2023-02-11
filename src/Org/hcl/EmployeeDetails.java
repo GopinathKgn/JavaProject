@@ -9,7 +9,7 @@ private void employeeName() {
 private void employeeId() {
 	
 	System.out.println("Employee ID: 2880");
-	System.out.printtln("Company ID: 1138");
+	System.out.println("Company ID: 1138");
 }
 	public static void main(String[] args) {
 		
