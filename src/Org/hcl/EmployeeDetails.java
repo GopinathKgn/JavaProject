@@ -4,7 +4,7 @@ public class EmployeeDetails {
 private void employeeName() {
 	
 	System.out.println("Employee Name: Ram");
-	Systee.out.println("Company Name : HCL");
+	System.out.println("Company Name : HCL");
 }
 private void employeeId() {
 	
